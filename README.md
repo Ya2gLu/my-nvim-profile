@@ -1,2 +1,2 @@
-# my-vim-profile
-this is my vim profile
+# my-nvim-profile
+this is my nvim profile
